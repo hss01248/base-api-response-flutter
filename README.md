@@ -39,3 +39,9 @@ class BaseApiResponse2{
   
 ```
 
+# usage
+
+```yaml
+base_api_response_flutter ^0.0.1
+```
+
